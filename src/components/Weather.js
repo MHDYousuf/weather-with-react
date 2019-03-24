@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 
 //function with argument props is used because only one param is required in entire function and not used return method is also because of that.

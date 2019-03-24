@@ -1,3 +1,6 @@
+A Simple React Project on Fetching Weather Forecast using API.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
